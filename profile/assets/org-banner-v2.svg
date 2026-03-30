@@ -1,0 +1,8 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="320" fill="#0C0C0B"/>
+  <path d="M118 82Q88 82 88 112V142Q88 160 68 160Q88 160 88 178V208Q88 238 118 238" stroke="#EAD006" stroke-width="18" stroke-linecap="round"/>
+  <path d="M188 82V238M188 82H238M188 238H238" stroke="#22D68A" stroke-width="18" stroke-linecap="round"/>
+  <text x="290" y="177" fill="#EAD006" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="56" letter-spacing="0">electric</text>
+  <text x="544" y="177" fill="#22D68A" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="56" letter-spacing="0">_coding;</text>
+  <text x="292" y="222" fill="#888888" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="22">Custom and open-source software.</text>
+</svg>
