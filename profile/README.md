@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/org-banner-v2.svg" alt="electric_coding;" />
+  <img src="./assets/org-banner-v3.svg" alt="electric_coding;" />
 </p>
 
 # electric_coding;
